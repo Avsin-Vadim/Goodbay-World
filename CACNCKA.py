@@ -1,0 +1,1 @@
+print('AVE MARIA')
